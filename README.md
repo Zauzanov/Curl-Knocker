@@ -2,7 +2,7 @@
   <h1 align="center"> No need to knock manually - cURL-based port knocker for CTFs:</h1>
 </p>
 
-# 🚀 Quick Start
+## 🚀 Quick Start
 ## 1. Download 'Curl-Port-Knocker.sh' file.
 ## 2. Edit it, adding IP address and ports.
 ## 3. Run it using Bash:
