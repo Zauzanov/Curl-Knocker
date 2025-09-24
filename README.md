@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center"> No need to knock manually - cURL-based port knocker for CTFs:</h2>
+  <h1 align="center"> No need to knock manually - cURL-based port knocker for CTFs:</h1>
 </p>
 
 # 🚀 Quick Start
